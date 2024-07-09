@@ -1,0 +1,17 @@
+.navigation{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(51, 51, 129);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.navigation a{
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 800;
+}
